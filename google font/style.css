@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Londrina Outline', cursive;
+    font-size: 45px;
+}
+p{
+    font-family: 'Smooch', cursive;
+    font-size: 50px;   
+}
+
+/* below style is not from google font */
+h2{
+    font-family: 'Fauna One', serif;
+    font-size: 50px;
+    
+}
+h3{
+    font-family: Cinzel, serif;
+    font-size: 35px;
+}
